@@ -1,4 +1,5 @@
-👋 Yo! My name's Caleb
+👋 Yo! My name's Caleb.
+
 I'm based in Brisbane, Queensland, Australia and I work for a company that specialises in virtual tours.
 When I'm not editing video, I'm mangling [perfecting] our post-production workflow with custom python scripts and containers.
 
