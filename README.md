@@ -1,0 +1,5 @@
+- 👋 Yo! My name's Caleb
+- 👀 I’m interested in Python, Javascript, Linux and containers
+- 🌱 I’m currently learning Python
+- 💞️ I’m keen to work on NLE/video post-production automation workflows 
+- 📫 Feel free to chat. My Discord handle is "in03#2202"
