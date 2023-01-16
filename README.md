@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">I edit video and develop workflow-automation tooling</h3>
 
-I'm currently based in Brisbane, Queensland, Australia and I work for a company that specialises in virtual tours, [YouTour](https://youtour.com.au).
-When I'm not editing, I'm developing open-source scripts, CLIs, GUI apps and docker containers for post-production workflows.
+I'm currently based in Brisbane, Queensland, Australia and I work for a company that specialises in virtual tours, [YouTour](https://youtour.com.au) (YouTour was awarded 52nd place as one of AFR's 100 Fastest Growing Startups in 2021!) As Senior Video Editor, I've been responsible for increasing speed, efficiency and scalability of our post-production timeline. I develop scripts, CLI/GUI apps and setup docker containers and CI/CD workflows for our post-production pipeline. A lot of my work is open-source and you can find it here!
 
 - 🌱 I’m currently learning **Svelte and Elixir**
+
+- 📚 I'm currently studying for my **AWS Solutions Architect Associate** certification
 
 - 👯 I’m looking to collaborate on [Proxima](https://github.com/in03/proxima)
 
