@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">I edit video and develop workflow-automation tooling</h3>
+<h3 align="center">I'm passionate about workflow automation</h3>
 
-I'm currently based in Brisbane, Queensland, Australia and I work for a company that specialises in virtual tours, [YouTour](https://youtour.com.au) (YouTour was awarded 52nd place as one of AFR's 100 Fastest Growing Startups in 2021!) As Senior Video Editor, I've been responsible for increasing speed, efficiency and scalability of our post-production timeline. I develop scripts, CLI/GUI apps and setup docker containers and CI/CD workflows for our post-production pipeline. A lot of my work is open-source and you can find it here!
+I'm currently based in Brisbane, Queensland, Australia newly working in IT as a Desktop Systems Engineer.
+It's been a wild transition going from pumping out projects with "roll-your-own" built on open-source, to maintaining Windows SOE with enterprise tools.
 
-- 🌱 I’m currently learning **Svelte and Elixir**
+Previously, I worked for a company that specialised in virtual tours, [YouTour](https://youtour.com.au) (YouTour was awarded 52nd place as one of AFR's 100 Fastest Growing Startups in 2021!) As Senior Video Editor, I was responsible for increasing speed, efficiency and scalability of our post-production timeline. I developed scripts, CLI/GUI apps and setup docker containers and CI/CD workflows for the post-production pipeline. A lot of my work is open-source and you can find it here!
 
-- 📚 I'm currently learning for my **AWS Solutions Architect Associate** certification
+- 🌱 Next on my list to learn is **Svelte and Elixir**
+
+- 📚 I'm currently learning **SCCM and PowerShell**
 
 - 👯 I’m looking to collaborate on [Patchwork](https://github.com/in03/patchwork)
 
@@ -35,5 +38,5 @@ I do a lot of software development around media asset managment and custom workf
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=in03&show_icons=true&locale=en&layout=compact" alt="in03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=in03&show_icons=true&locale=en" alt="in03" /></p>
+
 
