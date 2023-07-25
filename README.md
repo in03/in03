@@ -5,9 +5,9 @@ I'm currently based in Brisbane, Queensland, Australia and I work for a company 
 
 - 🌱 I’m currently learning **Svelte and Elixir**
 
-- 📚 I'm currently studying for my **AWS Solutions Architect Associate** certification
+- 📚 I'm currently learning for my **AWS Solutions Architect Associate** certification
 
-- 👯 I’m looking to collaborate on [Proxima](https://github.com/in03/proxima)
+- 👯 I’m looking to collaborate on [Patchwork](https://github.com/in03/patchwork)
 
 - 📝 Sometimes I write articles on [https://atira.io](https://atira.io)
 
@@ -20,8 +20,6 @@ I'm currently based in Brisbane, Queensland, Australia and I work for a company 
 - [REX](https://github.com/in03/rex): batteries-included tooling for full project backup management in Davinci Resolve
 - [Snapper](https://github.com/in03/snapper): timeline "snapshot" management for Davinci Resolve
 - [Squawk](https://github.com/in03/snapper): automatic, accurate translated transcriptions for DaVinci Resolve using OpenAI's Whisper
-
-Plus a couple of internal tools I unfortunately can't talk about!
 
 I do a lot of software development around media asset managment and custom workflow-automation tools, especially for DaVinci Resolve. I'm always keen to find collaborators, so if you're keen, hit me up!
 
