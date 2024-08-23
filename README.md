@@ -9,7 +9,7 @@ Previously, I worked for a company that specialised in virtual tours, [YouTour](
 
 - 📚 I'm currently learning **Go and PowerShell**
 
-- 🎓 I'm studying ** Cert IV in Cybersecurity (22603VIC)**
+- 🎓 I'm studying **Cert IV in Cybersecurity (22603VIC)**
 
 - 👯 I’m looking to collaborate on [Patchwork](https://github.com/in03/patchwork)
 
