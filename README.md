@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">I'm passionate about workflow automation</h3>
 
-I'm currently based in Brisbane, Queensland, Australia newly working in IT as a Desktop Systems Engineer.
-It's been a wild transition going from pumping out projects with "roll-your-own" built on open-source, to maintaining Windows SOE with enterprise tools.
+I'm currently based in Brisbane, Queensland, Australia working in IT as a Desktop Engineer. I manage Apple and Windows endpoints with a combination of Jamf, Intune, SCCM and some custom tooling.
 
-Previously, I worked for a company that specialised in virtual tours, [YouTour](https://youtour.com.au) (YouTour was awarded 52nd place as one of AFR's 100 Fastest Growing Startups in 2021!) As Senior Video Editor, I was responsible for increasing speed, efficiency and scalability of our post-production timeline. I developed scripts, CLI/GUI apps and setup docker containers and CI/CD workflows for the post-production pipeline. A lot of my work is open-source and you can find it here!
+Previously, I worked for a company that specialised in virtual tours, [YouTour](https://youtour.com.au) (YouTour was awarded a place in AFR's 100 Fastest Growing Startups of 2021!) As Senior Video Editor, I was responsible for increasing speed, efficiency and scalability of our post-production timeline. I developed scripts, apps (some CLI, some GUI) and setup docker containers and CI/CD workflows for the post-production pipeline. Some of my work is open-sourced here!
 
-- 🌱 Next on my list to learn is **Svelte and Elixir**
+- 🌱 Next on my list to learn is **Gleam and Elixir**
 
-- 📚 I'm currently learning **SCCM and PowerShell**
+- 📚 I'm currently learning **Go and PowerShell**
+
+- 🎓 I'm studying ** Cert IV in Cybersecurity (22603VIC)**
 
 - 👯 I’m looking to collaborate on [Patchwork](https://github.com/in03/patchwork)
 
-- 📝 Sometimes I write articles on [https://atira.io](https://atira.io)
+- 📝 Sometimes I write articles on [https://calebtrevatt.com](https://calebtrevatt.com)
 
 - 📫 Reach me on Discord: **in03#2202**
 
-**I’m currently working on**
-
-- [Proxima](https://github.com/in03/proxima): distributed video transcoding application for Davinci Resolve
+**Some of my active projects**:
+- [JaST](https://github.com/in03/jast): Jamf script CLI and tooling that works with git hooks
+ - [Proxima](https://github.com/in03/proxima): distributed video transcoding application for Davinci Resolve
 - [Patchwork](https://github.com/in03/patchwork): git-style deliverable diffing and patching (even h.264/5!)
-- [REX](https://github.com/in03/rex): batteries-included tooling for full project backup management in Davinci Resolve
 - [Snapper](https://github.com/in03/snapper): timeline "snapshot" management for Davinci Resolve
 - [Squawk](https://github.com/in03/snapper): automatic, accurate translated transcriptions for DaVinci Resolve using OpenAI's Whisper
 
