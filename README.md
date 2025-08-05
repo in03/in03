@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">I'm passionate about workflow automation.</h3>
 
-I'm currently based in Australia working in tech [@ElevenLabs](https://elevenlabs.io/) 🔊🔥 
+I'm currently based in Australia working in APAC enterprise for [@ElevenLabs](https://elevenlabs.io/) 🔊🔥 
 
-Before now, I was a professional script kiddie managing Apple and Windows endpoints with Jamf, Intune and SCCM. Longer ago still, I worked in advertising and media, editing virtual tours and manging post-production pipelines.
+Before now, I was an IT pro in secondary education, managing Apple and Windows endpoint with Jamf, Intune and SCCM. Longer ago still, I worked in advertising and media, where I lead a team editing virtual tours and managing post-production pipelines.
 
 - 🌱 Next on my list to learn is **Gleam and Elixir**
 
-- 📚 I'm currently learning **All things MCP**
+- 📚 I'm currently learning **Edge AI with ESP32**
 
 - 🎓 I'm studying **Cert IV in Cybersecurity (22603VIC)**
 
-- 👯 I’m looking to collaborate on [Patchwork](https://github.com/in03/patchwork)
+- 👯 I’m looking to collaborate on [tts_bottle](https://github.com/in03/tts_bottle)
 
 - 📝 I write articles on [https://calebtrevatt.com](https://calebtrevatt.com)
 
