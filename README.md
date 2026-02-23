@@ -18,6 +18,7 @@ Before now, I was an IT pro in secondary education, managing Apple and Windows e
 - 📫 Reach me on Discord: **in03#2202**
 
 **Some of my projects**:
+- [Not a Haiku](https://github.com/in03/not-a-haiku): ML-powered poem validator
 - [JaST](https://github.com/in03/jast): Jamf script CLI and tooling that works with git hooks
 - [Proxima](https://github.com/in03/proxima): distributed video transcoding application for Davinci Resolve
 - [Patchwork](https://github.com/in03/patchwork): git-style deliverable diffing and patching (even h.264/5!)
